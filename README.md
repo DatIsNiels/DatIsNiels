@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DatIsNiels, An 18 year old Software Engineer from Purmerend.
-- 💼 Intern Software Development @ Ahold Delhaize from 🏡
+- 💼 DevOps Engineer @ Ahold Delhaize - Albert Heijn Tech Labs
 - 🎓 Studying Software Engineering at the Amsterdam University of Applied Sciences
-- 👀 Web Development, Mobile Development 
-- 🌱 I’m currently learning Kotlin, PHP and Mobile Development
+- 👀 Web Development, Mobile Development
+- 🌱 I’m currently learning Kotlin and Go
 - 📫 n.marsbergen@hotmail.nl
