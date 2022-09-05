@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DatIsNiels, An 19 year old Software Engineer from Purmerend.
-- 💼 DevOps Engineer @ Ahold Delhaize - Albert Heijn Tech Labs
-- 🎓 Studying Software Engineering at the Amsterdam University of Applied Sciences
+- 💼 DevOps Engineer @ Ahold Delhaize - Albert Heijn Tech Labs & Team Checkout & Receipts
+- 🎓 Studying Software Engineering at the Amsterdam University of Applied Sciences (HvA)
+- 🎓 Minor Cloud Native Software Development at the Utrecht University of Applied Sciences (HU)
 - 👀 Web Development, Mobile Development, Cloud Engineering
 - 🌱 I’m currently learning Flutter and Cloud Solutions
 - 📫 Connect me through [LinkedIn](https://www.linkedin.com/in/niels-van-marsbergen/)
