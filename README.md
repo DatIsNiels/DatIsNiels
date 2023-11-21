@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DatIsNiels, An 20 year old Software Engineer from Purmerend.
+- 👋 Hi, I’m @DatIsNiels, An 21 year old Software Engineer from Purmerend.
 - 💼 DevOps Engineer @ Ahold Delhaize - Team Checkout & Receipts & Graduation Intern Cluster Payments
 - 🎓 Studying Software Engineering at the Amsterdam University of Applied Sciences (HvA)
 - 🎓 Minor Cloud Native Software Development at the Utrecht University of Applied Sciences (HU)
