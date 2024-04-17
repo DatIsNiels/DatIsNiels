@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DatIsNiels, An 21 year old Software Engineer from Purmerend.
-- 💼 DevOps Engineer @ Ahold Delhaize - Team Checkout & Receipts & Graduation Intern Cluster Payments
-- 🎓 Studying Software Engineering at the Amsterdam University of Applied Sciences (HvA)
-- 🎓 Minor Cloud Native Software Development at the Utrecht University of Applied Sciences (HU)
+- 💼 DevOps Engineer @ Ahold Delhaize - Team Checkout & Receipts 
 - 👀 Web Development, Mobile Development, Cloud Engineering
-- 🌱 I’m currently learning Flutter and Cloud Solutions
+- 🌱 I’m currently learning Cloud Solutions
 - 📫 Connect me through [LinkedIn](https://www.linkedin.com/in/niels-van-marsbergen/)
-- 🔱 React, Typescript, Javascript, Kotlin, Vue.JS, Angular, SCSS, GoLang, GraphQL
+- 🔱 React, Typescript, Kotlin, SCSS, GraphQL
